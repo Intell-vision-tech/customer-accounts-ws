@@ -1,0 +1,12 @@
+%dw 2.0
+
+type auto_8545ccaf_e961_4953_a516_0bbd5d391c1f_Input_Payload = {
+  CreationDate: String, 
+  Type: String, 
+  Address: String, 
+  AirMiles: Number, 
+  ID?: Number, 
+  Name: String, 
+  _?: Any
+}
+
